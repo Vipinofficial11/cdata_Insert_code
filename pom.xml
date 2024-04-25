@@ -4,7 +4,7 @@
   <groupId>org.example</groupId>
   <artifactId>Practice_Maven</artifactId>
   <version>1.0-SNAPSHOT</version>
-<!--  <name>Archetype - Practice_Maven</name>-->
+  <name>Archetype - Practice_Maven</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
